@@ -45,13 +45,7 @@ function Form() {
           
           ),
         });
-        // let data = await res.json();
-        // let all=data.formData
-        // onAdd(all)
-        // let a=data.formData
-        // localStorage.setItem("menu", JSON.stringify(a) )
-
-        // console.log(data.formData);
+       
       };
 
 
